@@ -1,4 +1,4 @@
-package com.Xworkz.Core_Java.Abstraction.MobileEx;
+package com.Xworkz.Core_Java.Abstraction.Abstract_Class.MobileEx;
 
 public abstract class Nokia extends Mobile {
 	void upArrow() {
